@@ -1,16 +1,22 @@
-<h1 align="center"> Sup? </h1>
+<h1>Welcome to my GitHub profile! 🚀</h1>
+<p>Hi there! My name is Yago and I am a Brazilian software development learner 💻. I am dedicating my time to learn and improve my skills in:</p>
+<ul>
+  <li>Javascript 💬</li>
+  <li>Java 🚀</li>
+  <li>Spring 🌱</li>
+</ul>
+<p>If you would like to collaborate or share some knowledge, I would be happy to hear! You can find me on Discord (Hao#0755) 📫.</p>
+<p>Thanks for visiting my profile! 🙏</p>
 
-<ul>I don't know why you're here, but here we go:</ul>
-<li>⚡ My name is Yago, i am Brazilian and actually im becoming slowly a dev</li>
-<li>🌱 I'm studying Javascript, Java and Spring</li>
-<li>📫 I accept help from outside and appreciate it, my discord is Hao#0755</li>
-
-<h1 align="center"> Salve? </h1>
-
-<ul>Não sei porque você está aqui, mas vamos lá:</ul>
-<li>⚡ Meu nome é Yago e atualmente estou me tornando um desenvolvedor aos poucos</li>
-<li>🌱 Estou estudando Javascript, Java e Spring</li> 
-<li>📫 Aceito ajudas vindas de fora e aprecio, meu discord é Hao#0755</li>
+<h1>Bem-vindo ao meu perfil no GitHub! 🚀</h1>
+<p>Olá! Meu nome é Yago e sou um aprendiz de desenvolvimento de software 💻. Estou dedicando meu tempo para aprender e aprimorar minhas habilidades em:</p>
+<ul>
+  <li>Javascript 💬</li>
+  <li>Java 🚀</li>
+  <li>Spring 🌱</li>
+</ul>
+<p>Se você gostaria de colaborar ou compartilhar algum conhecimento, ficarei feliz em ouvir! Você pode me encontrar no Discord (Hao#0755) 📫.</p>
+<p>Obrigado por visitar meu perfil! 🙏</p>
 
 <!--
 **yagohao/yagohao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
